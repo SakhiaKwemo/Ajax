@@ -1,5 +1,7 @@
 # AJAX 
 
+[GitHub Repository Branch](https://github.com/SakhiaKwemo/Ajax) | [Vimeo Video Recording](https://vimeo.com/795002045/d64f9327db)
+
 * [x] What is Ajax?
 * [x] Pros/Cons Ajax?
 * [x] Ajax Methods
